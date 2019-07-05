@@ -1,2 +1,5 @@
 # Machine Learning Loan Prediction Algorithm
-Please open the Jupyter Notebook file "Machine Learning Loan Prediction" 
+
+##Files
+"Machine Learning Loan Prediction Algorithm" - Jupyter Notebook
+"LoanStats3a.csv" - Excel document of instances used to train and test models 
